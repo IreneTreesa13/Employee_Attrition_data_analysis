@@ -1,1 +1,1 @@
-# Employee_Attrition_data_analysis
+ Analysis of Employee attrition data using SQL to uncover key factors influencing turnover. Queries explored trends in job satisfaction, compensation, and demographics, revealing insights like dissatisfaction driving 75% of exits. By identifying patterns, the analysis helps design strategies to reduce attrition and improve retention.
